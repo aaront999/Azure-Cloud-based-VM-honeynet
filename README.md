@@ -50,6 +50,7 @@ https://docs.google.com/document/d/1xWjh1lzxSRHYalbmf3YXON9Lol1dJ2OV78h1DZI3_WY/
 
 <img width="1440" alt="10 3" src="https://github.com/user-attachments/assets/f2daebdc-f5c7-4ecc-899f-ad4f6efef3b7">
 <img width="1440" alt="10 4" src="https://github.com/user-attachments/assets/7e9a433b-f08f-48a1-b412-1c94f79e4d43">
+
 #
 
 7. I also blocked all the malicious IPs’ inbound and outbound traffic via the Firewall/Network Settings tab.
