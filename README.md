@@ -1,5 +1,5 @@
-# Azure Cloud-based VM Honeynet Project
-#### - I built and deployed a Cloud-based Virtual Machine honeynet primarily using Microsoft Azure and setting up a SIEM (System Information and Event Management) system using Microsoft Sentinel to connect to our VM, to lure and monitor any potential real-time cyber threats. 
+# Azure Cloud-based VM Honeypot Project
+#### - I built and deployed a Cloud-based Virtual Machine honeypot primarily using Microsoft Azure and setting up a SIEM (System Information and Event Management) system using Microsoft Sentinel to connect to our VM, to lure and monitor any potential real-time cyber threats. 
 
 #### - To enhance our testing, we will intentionally leave RDP (Remote Desktop Protocol) access open on port 3389 to observe any real-time malicious threats attempting to access our machine. By the end, be sure to disable the RDP open port and add MFA (Multi-Factor Authentication) to be safe.
 
